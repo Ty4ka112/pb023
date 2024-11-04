@@ -6,4 +6,4 @@ def check_info():
 
 
 def new_info():
-    print('Hello world!')
+    return 'INFO'
