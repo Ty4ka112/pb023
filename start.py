@@ -2,7 +2,7 @@ print('Hello')
 
 
 def check_info():
-    pass
+    return 'CHECK'
 
 
 def new_info():
